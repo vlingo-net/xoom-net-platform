@@ -42,4 +42,7 @@ clone_script:
       git fetch -q origin +refs/pull/$env:APPVEYOR_PULL_REQUEST_NUMBER/merge:
       git checkout -qf FETCH_HEAD
     }
+    if( $isLinux ) {
+      ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/
+    }
 - pwsh: git submodule update --init --recursive
