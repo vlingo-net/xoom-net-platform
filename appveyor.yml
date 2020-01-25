@@ -43,6 +43,6 @@ clone_script:
       git checkout -qf FETCH_HEAD
     }
     if( $isLinux ) {
-      ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/
+      sudo ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/
     }
 - pwsh: git submodule update --init --recursive
