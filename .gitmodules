@@ -1,30 +1,33 @@
 [submodule "vlingo-net-http"]
 	path = vlingo-net-http
-	url = https://github.com/vlingo-net/vlingo-net-http
+	url = ../vlingo-net-http
 [submodule "vlingo-net-symbio-ado"]
 	path = vlingo-net-symbio-ado
-	url = https://github.com/vlingo-net/vlingo-net-symbio-ado
+	url = ../vlingo-net-symbio-ado
 [submodule "vlingo-net-directory"]
 	path = vlingo-net-directory
-	url = https://github.com/vlingo-net/vlingo-net-directory
+	url = ../vlingo-net-directory
 [submodule "vlingo-net-symbio"]
 	path = vlingo-net-symbio
-	url = https://github.com/vlingo-net/vlingo-net-symbio
+	url = ../vlingo-net-symbio
 [submodule "vlingo-net-cluster"]
 	path = vlingo-net-cluster
-	url = https://github.com/vlingo-net/vlingo-net-cluster
+	url = ../vlingo-net-cluster
 [submodule "vlingo-net-wire"]
 	path = vlingo-net-wire
-	url = https://github.com/vlingo-net/vlingo-net-wire
+	url = ../vlingo-net-wire
 [submodule "vlingo-net-actors"]
 	path = vlingo-net-actors
-	url = https://github.com/vlingo-net/vlingo-net-actors
+	url = ../vlingo-net-actors
 [submodule "vlingo-net-common"]
 	path = vlingo-net-common
-	url = https://github.com/vlingo-net/vlingo-net-common
+	url = ../vlingo-net-common
 [submodule "vlingo-net-uuid"]
 	path = vlingo-net-uuid
-	url = https://github.com/vlingo-net/vlingo-net-uuid
+	url = ../vlingo-net-uuid
 [submodule "vlingo-net-auth"]
 	path = vlingo-net-auth
-	url = https://github.com/vlingo-net/vlingo-net-auth
+	url = ../vlingo-net-auth
+[submodule "vlingo-net-examples"]
+	path = vlingo-net-examples
+	url = ../vlingo-net-examples
