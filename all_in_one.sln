@@ -77,6 +77,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Wire.Tests", "vlingo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Wire", "vlingo-net-wire\src\Vlingo.Wire\Vlingo.Wire.csproj", "{FD2D8C52-C47D-4CEE-B8D4-D8B337DEE3FA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-examples", "vlingo-net-examples", "{6C150D5A-39A9-48D6-AAF8-59E0F6734B22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingPong", "vlingo-net-examples\01 PingPong\PingPong\PingPong.csproj", "{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 PingPong", "01 PingPong", "{EF236F20-7D87-42A2-8247-428977A67734}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug With Project References|Any CPU = Debug With Project References|Any CPU
@@ -432,6 +438,24 @@ Global
 		{FD2D8C52-C47D-4CEE-B8D4-D8B337DEE3FA}.Release|x64.Build.0 = Release|Any CPU
 		{FD2D8C52-C47D-4CEE-B8D4-D8B337DEE3FA}.Release|x86.ActiveCfg = Release|Any CPU
 		{FD2D8C52-C47D-4CEE-B8D4-D8B337DEE3FA}.Release|x86.Build.0 = Release|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug With Project References|Any CPU.ActiveCfg = Debug With Project References|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug With Project References|Any CPU.Build.0 = Debug With Project References|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug With Project References|x64.ActiveCfg = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug With Project References|x64.Build.0 = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug With Project References|x86.ActiveCfg = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug With Project References|x86.Build.0 = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug|x64.Build.0 = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Debug|x86.Build.0 = Debug|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Release|x64.ActiveCfg = Release|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Release|x64.Build.0 = Release|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Release|x86.ActiveCfg = Release|Any CPU
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -464,6 +488,8 @@ Global
 		{035EED8A-3267-4E08-A3EF-B6A46A335E4D} = {EE052E0E-70B1-40E0-8D08-EE1BEB61D803}
 		{85694796-2B12-449A-8FE7-4AB480DE0623} = {035EED8A-3267-4E08-A3EF-B6A46A335E4D}
 		{FD2D8C52-C47D-4CEE-B8D4-D8B337DEE3FA} = {035EED8A-3267-4E08-A3EF-B6A46A335E4D}
+		{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41} = {EF236F20-7D87-42A2-8247-428977A67734}
+		{EF236F20-7D87-42A2-8247-428977A67734} = {6C150D5A-39A9-48D6-AAF8-59E0F6734B22}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53D649E6-82BF-4B8F-A1B5-371C6230E98B}
