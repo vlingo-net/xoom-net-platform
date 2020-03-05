@@ -1,0 +1,45 @@
+version: 0.0.{build}
+image:
+  - Visual Studio 2019
+configuration: Release
+skip_commits:
+  message: /.*\[ci\-skip\].*/ 
+before_build:
+- dotnet restore all_in_one.sln
+build:
+  project: all_in_one.sln
+  verbosity: minimal
+  publish_nuget: true
+test_script:
+- dotnet test all_in_one.sln
+deploy:
+- provider: NuGet
+  api_key:
+    secure: S7SGXqFTXTOVbVLP45Ofyf/iTsIOr9o0F/QEeQkaUMqb/PkwWjXK6+CF4WAqbfWr
+  skip_symbols: true
+  artifact: /.*\.nupkg/
+  on:
+    branch: master
+notifications:
+  - provider: Webhook
+    url: https://webhooks.gitter.im/e/2b56d1ca84637acb9ee8
+    method: POST
+    on_build_success: true
+    on_build_failure: true
+    on_build_status_changed: true
+clone_script:
+- pwsh: >-
+    if(-not $env:APPVEYOR_PULL_REQUEST_NUMBER) {
+      git clone -q --branch=$env:APPVEYOR_REPO_BRANCH https://github.com/$env:APPVEYOR_REPO_NAME.git $env:APPVEYOR_BUILD_FOLDER
+      cd $env:APPVEYOR_BUILD_FOLDER
+      git checkout -qf $env:APPVEYOR_REPO_COMMIT
+    } else {
+      git clone -q https://github.com/$env:APPVEYOR_REPO_NAME.git $env:APPVEYOR_BUILD_FOLDER
+      cd $env:APPVEYOR_BUILD_FOLDER
+      git fetch -q origin +refs/pull/$env:APPVEYOR_PULL_REQUEST_NUMBER/merge:
+      git checkout -qf FETCH_HEAD
+    }
+    if( $isLinux ) {
+      sudo ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/
+    }
+- pwsh: git submodule update --init --recursive
