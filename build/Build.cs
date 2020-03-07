@@ -49,7 +49,7 @@ class Build : NukeBuild
         {
         });
 
-        public const string ALL_IN_ONE_SLN = "all_in_one";
+        public const string ALL_IN_ONE_SLN = "Vlingo.Platform";
         public virtual Target CreateAllInOneSolution => _ => _
             .Executes(() =>
             {
