@@ -3,7 +3,6 @@ image:
   - Visual Studio 2019
 matrix:
   allow_failures:
-    - test_category: FailsOnWindows
     - image: Visual Studio 2019
 configuration: Release
 skip_commits:
