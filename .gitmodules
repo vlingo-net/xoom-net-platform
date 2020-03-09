@@ -31,3 +31,6 @@
 [submodule "vlingo-net-examples"]
 	path = vlingo-net-examples
 	url = ../vlingo-net-examples
+[submodule "vlingo-net-lattice"]
+	path = vlingo-net-lattice
+	url = ../vlingo-net-lattice
