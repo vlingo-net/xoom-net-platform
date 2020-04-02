@@ -79,9 +79,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Wire", "vlingo-net-w
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-examples", "vlingo-net-examples", "{6C150D5A-39A9-48D6-AAF8-59E0F6734B22}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingPong", "vlingo-net-examples\01 PingPong\PingPong\PingPong.csproj", "{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingPong", "vlingo-net-examples\Vlingo-Actors-Playground\PingPong\PingPong.csproj", "{16BC2E2A-FD7C-4A2D-9C9B-3D3482AE5C41}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 PingPong", "01 PingPong", "{EF236F20-7D87-42A2-8247-428977A67734}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vlingo-Actors-Playground", "Vlingo-Actors-Playground", "{EF236F20-7D87-42A2-8247-428977A67734}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-lattice", "vlingo-net-lattice", "{415BE0A1-7C90-472A-856E-6B6BBED14041}"
 EndProject
@@ -91,7 +91,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlingo.Lattice", "vlingo-ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlingo.Lattice.Tests", "vlingo-net-lattice\src\Vlingo.Lattice.Tests\Vlingo.Lattice.Tests.csproj", "{9524D465-1615-4AB8-B9A9-873F68ED205E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.Tests", "vlingo-net-examples\01 PingPong\PingPong.Tests\PingPong.Tests.csproj", "{B99CA943-94C2-4CA4-B9F6-6708E4C5ED7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.Tests", "vlingo-net-examples\Vlingo-Actors-Playground\PingPong.Tests\PingPong.Tests.csproj", "{B99CA943-94C2-4CA4-B9F6-6708E4C5ED7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
