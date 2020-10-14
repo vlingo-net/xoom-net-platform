@@ -27,6 +27,7 @@ class Build : NukeBuild
     public static int Main () => Execute<Build>(x => x.Compile);
 
     [Parameter("Configuration to build - Default is 'Debug' (local) or 'Release' (server)")]
+    // ReSharper disable once NotAccessedField.Local
     readonly Configuration Configuration = IsLocalBuild ? Configuration.Debug : Configuration.Release;
 
     Target Clean => _ => _
@@ -46,7 +47,8 @@ class Build : NukeBuild
         {
         });
 
-        public const string ALL_IN_ONE_SLN = "Vlingo.Platform";
+    // ReSharper disable once InconsistentNaming
+    public const string ALL_IN_ONE_SLN = "Vlingo.Platform";
         public virtual Target CreateAllInOneSolution => _ => _
             .Executes(() =>
             {
