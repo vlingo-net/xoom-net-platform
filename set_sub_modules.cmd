@@ -1,3 +1,5 @@
+git submodule set-url vlingo-net-xoom ../vlingo-net-xoom
+
 git submodule set-url vlingo-net-http ../vlingo-net-http
 git submodule set-url vlingo-net-symbio-ado ../vlingo-net-symbio-ado
 git submodule set-url vlingo-net-directory ../vlingo-net-directory

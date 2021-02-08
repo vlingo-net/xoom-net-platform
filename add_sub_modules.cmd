@@ -1,3 +1,5 @@
+git submodule add ../vlingo-net-xoom vlingo-net-xoom
+	
 git submodule add ../vlingo-net-http vlingo-net-http
 git submodule add ../vlingo-net-symbio-ado vlingo-net-symbio-ado
 git submodule add ../vlingo-net-directory vlingo-net-directory

@@ -34,3 +34,6 @@
 [submodule "vlingo-net-lattice"]
 	path = vlingo-net-lattice
 	url = ../vlingo-net-lattice
+[submodule "vlingo-net-xoom"]
+    path = vlingo-net-xoom
+    url = ../vlingo-net-xoom
