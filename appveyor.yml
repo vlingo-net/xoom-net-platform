@@ -8,13 +8,13 @@ configuration: Release
 skip_commits:
   message: /.*\[ci\-skip\].*/ 
 before_build:
-- dotnet restore Vlingo.Platform.sln
+- dotnet restore Xoom.Platform.sln
 build:
-  project: Vlingo.Platform.sln
+  project: Xoom.Platform.sln
   verbosity: minimal
   publish_nuget: true
 test_script:
-- dotnet test Vlingo.Platform.sln
+- dotnet test Xoom.Platform.sln
 notifications:
   - provider: Webhook
     url: https://webhooks.gitter.im/e/2b56d1ca84637acb9ee8

@@ -1,23 +1,23 @@
-git submodule add ../vlingo-net-xoom vlingo-net-xoom
+git submodule add ../xoom-net-xoom xoom-net-xoom
 	
-git submodule add ../vlingo-net-http vlingo-net-http
-git submodule add ../vlingo-net-symbio-ado vlingo-net-symbio-ado
-git submodule add ../vlingo-net-directory vlingo-net-directory
+git submodule add ../xoom-net-http xoom-net-http
+git submodule add ../xoom-net-symbio-ado xoom-net-symbio-ado
+git submodule add ../xoom-net-directory xoom-net-directory
 
-git submodule add ../vlingo-net-symbio vlingo-net-symbio
-git submodule add ../vlingo-net-cluster vlingo-net-cluster
+git submodule add ../xoom-net-symbio xoom-net-symbio
+git submodule add ../xoom-net-cluster xoom-net-cluster
 
 
-git submodule add ../vlingo-net-wire vlingo-net-wire
+git submodule add ../xoom-net-wire xoom-net-wire
 
-git submodule add ../vlingo-net-actors vlingo-net-actors
+git submodule add ../xoom-net-actors xoom-net-actors
 
-git submodule add ../vlingo-net-common vlingo-net-common
-git submodule add ../vlingo-net-uuid vlingo-net-uuid
+git submodule add ../xoom-net-common xoom-net-common
+git submodule add ../xoom-net-uuid xoom-net-uuid
 
-git submodule add ../vlingo-net-auth vlingo-net-auth
+git submodule add ../xoom-net-auth xoom-net-auth
 
-git submodule add ../vlingo-net-examples vlingo-net-examples
+git submodule add ../xoom-net-examples xoom-net-examples
 
 
 

@@ -48,7 +48,7 @@ class Build : NukeBuild
         });
 
     // ReSharper disable once InconsistentNaming
-    public const string ALL_IN_ONE_SLN = "Vlingo.Platform";
+    public const string ALL_IN_ONE_SLN = "Xoom.Platform";
         public virtual Target CreateAllInOneSolution => _ => _
             .Executes(() =>
             {
