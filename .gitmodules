@@ -22,9 +22,9 @@
 [submodule "vlingo-net-common"]
 	path = vlingo-net-common
 	url = ../vlingo-net-common
-[submodule "vlingo-net-uuid"]
-	path = vlingo-net-uuid
-	url = ../vlingo-net-uuid
+[submodule "xoom-net-uuid"]
+	path = xoom-net-uuid
+	url = ../xoom-net-uuid
 [submodule "vlingo-net-auth"]
 	path = vlingo-net-auth
 	url = ../vlingo-net-auth

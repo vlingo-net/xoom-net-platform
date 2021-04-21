@@ -61,13 +61,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Symbio.Ado.Tests", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Symbio.Ado", "vlingo-net-symbio-ado\src\Vlingo.Symbio.Ado\Vlingo.Symbio.Ado.csproj", "{2F0C97FA-BB40-4444-9DDD-00737D71C392}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-uuid", "vlingo-net-uuid", "{9B45D051-2C80-4E1D-923B-85FC175CB8AC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-uuid", "xoom-net-uuid", "{9B45D051-2C80-4E1D-923B-85FC175CB8AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5542469E-50EE-45A1-8169-76619FF26E31}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.UUID.Tests", "vlingo-net-uuid\src\Vlingo.UUID.Tests\Vlingo.UUID.Tests.csproj", "{1233180F-5CD3-46C6-86AF-7CFDBA1AD6EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.UUID.Tests", "xoom-net-uuid\src\Vlingo.Xoom.UUID.Tests\Vlingo.Xoom.UUID.Tests.csproj", "{1233180F-5CD3-46C6-86AF-7CFDBA1AD6EA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.UUID", "vlingo-net-uuid\src\Vlingo.UUID\Vlingo.UUID.csproj", "{97400E3F-03FC-421A-8FDC-F5AB62FBC97D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.UUID", "xoom-net-uuid\src\Vlingo.Xoom.UUID\Vlingo.Xoom.UUID.csproj", "{97400E3F-03FC-421A-8FDC-F5AB62FBC97D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-wire", "vlingo-net-wire", "{EE052E0E-70B1-40E0-8D08-EE1BEB61D803}"
 EndProject
