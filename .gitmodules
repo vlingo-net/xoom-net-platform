@@ -16,12 +16,12 @@
 [submodule "vlingo-net-wire"]
 	path = vlingo-net-wire
 	url = ../vlingo-net-wire
-[submodule "vlingo-net-actors"]
-	path = vlingo-net-actors
-	url = ../vlingo-net-actors
-[submodule "vlingo-net-common"]
-	path = vlingo-net-common
-	url = ../vlingo-net-common
+[submodule "xoom-net-actors"]
+	path = xoom-net-actors
+	url = ../xoom-net-actors
+[submodule "xoom-net-common"]
+	path = xoom-net-common
+	url = ../xoom-net-common
 [submodule "xoom-net-uuid"]
 	path = xoom-net-uuid
 	url = ../xoom-net-uuid
