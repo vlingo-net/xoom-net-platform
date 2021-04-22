@@ -21,13 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Cluster.Tests", "vli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Cluster", "vlingo-net-cluster\src\Vlingo.Cluster\Vlingo.Cluster.csproj", "{5A973D91-19AA-434C-BB6E-B39E1EC82568}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-common", "vlingo-net-common", "{E012082D-7A92-42A8-9E12-34A7F21386DB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-common", "xoom-net-common", "{E012082D-7A92-42A8-9E12-34A7F21386DB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D12F271B-0CF0-46ED-A795-FB0DAFD8944E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Common.Tests", "vlingo-net-common\src\Vlingo.Common.Tests\Vlingo.Common.Tests.csproj", "{1060D432-0EB5-43D9-A775-22FE151FD219}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Common.Tests", "xoom-net-common\src\Vlingo.Xoom.Common.Tests\Vlingo.Xoom.Common.Tests.csproj", "{1060D432-0EB5-43D9-A775-22FE151FD219}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Common", "vlingo-net-common\src\Vlingo.Common\Vlingo.Common.csproj", "{644F5D0A-BEF7-40FA-81CF-67F620AE055D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Common", "xoom-net-common\src\Vlingo.Xoom.Common\Vlingo.Xoom.Common.csproj", "{644F5D0A-BEF7-40FA-81CF-67F620AE055D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-directory", "vlingo-net-directory", "{59A8B8F5-D58E-4FB0-A457-2CC4B7B2E351}"
 EndProject
