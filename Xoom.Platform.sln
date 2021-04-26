@@ -69,13 +69,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.UUID.Tests", "x
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.UUID", "xoom-net-uuid\src\Vlingo.Xoom.UUID\Vlingo.Xoom.UUID.csproj", "{97400E3F-03FC-421A-8FDC-F5AB62FBC97D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-wire", "vlingo-net-wire", "{EE052E0E-70B1-40E0-8D08-EE1BEB61D803}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-wire", "xoom-net-wire", "{EE052E0E-70B1-40E0-8D08-EE1BEB61D803}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{035EED8A-3267-4E08-A3EF-B6A46A335E4D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Wire.Tests", "vlingo-net-wire\src\Vlingo.Wire.Tests\Vlingo.Wire.Tests.csproj", "{85694796-2B12-449A-8FE7-4AB480DE0623}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Wire.Tests", "xoom-net-wire\src\Vlingo.Xoom.Wire.Tests\Vlingo.Xoom.Wire.Tests.csproj", "{85694796-2B12-449A-8FE7-4AB480DE0623}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Wire", "vlingo-net-wire\src\Vlingo.Wire\Vlingo.Wire.csproj", "{FD2D8C52-C47D-4CEE-B8D4-D8B337DEE3FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Wire", "xoom-net-wire\src\Vlingo.Xoom.Wire\Vlingo.Xoom.Wire.csproj", "{FD2D8C52-C47D-4CEE-B8D4-D8B337DEE3FA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-examples", "vlingo-net-examples", "{6C150D5A-39A9-48D6-AAF8-59E0F6734B22}"
 EndProject

@@ -13,9 +13,9 @@
 [submodule "vlingo-net-cluster"]
 	path = vlingo-net-cluster
 	url = ../vlingo-net-cluster
-[submodule "vlingo-net-wire"]
-	path = vlingo-net-wire
-	url = ../vlingo-net-wire
+[submodule "xoom-net-wire"]
+	path = xoom-net-wire
+	url = ../xoom-net-wire
 [submodule "xoom-net-actors"]
 	path = xoom-net-actors
 	url = ../xoom-net-actors
