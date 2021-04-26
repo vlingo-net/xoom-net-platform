@@ -272,3 +272,4 @@ __pycache__/
 /.sonarqube
 _logs/*.txt
 coverage.opencover.xml
+.DS_Store
