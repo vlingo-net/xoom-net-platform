@@ -37,13 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Directory.Tests", "v
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Directory", "vlingo-net-directory\src\Vlingo.Directory\Vlingo.Directory.csproj", "{D6252CC0-84C5-4DE2-B9F3-2161C84D0B86}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-http", "vlingo-net-http", "{1977A8C0-3545-4676-8A82-ACA2947C379F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-http", "xoom-net-http", "{1977A8C0-3545-4676-8A82-ACA2947C379F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E1234440-DD0A-491D-BA1D-92ED5AA006B9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Http.Tests", "vlingo-net-http\src\Vlingo.Http.Tests\Vlingo.Http.Tests.csproj", "{E828084C-F35D-421F-B81B-8405659F357C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Http.Tests", "xoom-net-http\src\Vlingo.Xoom.Http.Tests\Vlingo.Xoom.Http.Tests.csproj", "{E828084C-F35D-421F-B81B-8405659F357C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Http", "vlingo-net-http\src\Vlingo.Http\Vlingo.Http.csproj", "{8FC2EF82-C8DB-4854-B120-21FED0FB716E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Http", "xoom-net-http\src\Vlingo.Xoom.Http\Vlingo.Xoom.Http.csproj", "{8FC2EF82-C8DB-4854-B120-21FED0FB716E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-symbio", "vlingo-net-symbio", "{190582AD-1E43-4FB3-98DD-E43649AE53F2}"
 EndProject
