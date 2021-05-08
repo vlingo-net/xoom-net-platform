@@ -28,9 +28,9 @@
 [submodule "vlingo-net-auth"]
 	path = vlingo-net-auth
 	url = ../vlingo-net-auth
-[submodule "vlingo-net-examples"]
-	path = vlingo-net-examples
-	url = ../vlingo-net-examples
+[submodule "xoom-net-examples"]
+	path = xoom-net-examples
+	url = ../xoom-net-examples
 [submodule "vlingo-net-lattice"]
 	path = vlingo-net-lattice
 	url = ../vlingo-net-lattice
