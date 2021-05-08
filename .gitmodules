@@ -7,9 +7,9 @@
 [submodule "vlingo-net-directory"]
 	path = vlingo-net-directory
 	url = ../vlingo-net-directory
-[submodule "vlingo-net-symbio"]
-	path = vlingo-net-symbio
-	url = ../vlingo-net-symbio
+[submodule "xoom-net-symbio"]
+	path = xoom-net-symbio
+	url = ../xoom-net-symbio
 [submodule "vlingo-net-cluster"]
 	path = vlingo-net-cluster
 	url = ../vlingo-net-cluster
