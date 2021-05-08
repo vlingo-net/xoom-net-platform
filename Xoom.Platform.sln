@@ -45,13 +45,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Http.Tests", "x
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Http", "xoom-net-http\src\Vlingo.Xoom.Http\Vlingo.Xoom.Http.csproj", "{8FC2EF82-C8DB-4854-B120-21FED0FB716E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-symbio", "vlingo-net-symbio", "{190582AD-1E43-4FB3-98DD-E43649AE53F2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-symbio", "xoom-net-symbio", "{190582AD-1E43-4FB3-98DD-E43649AE53F2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{843013DA-2352-46CA-BDC7-F1FCBACB9E15}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Symbio.Tests", "vlingo-net-symbio\src\Vlingo.Symbio.Tests\Vlingo.Symbio.Tests.csproj", "{C83FDF42-537C-4B21-B914-3964566C8A8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Symbio.Tests", "xoom-net-symbio\src\Vlingo.Xoom.Symbio.Tests\Vlingo.Xoom.Symbio.Tests.csproj", "{C83FDF42-537C-4B21-B914-3964566C8A8C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Symbio", "vlingo-net-symbio\src\Vlingo.Symbio\Vlingo.Symbio.csproj", "{397F117B-45DD-4C76-A01A-07B7DDE580C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Symbio", "xoom-net-symbio\src\Vlingo.Xoom.Symbio\Vlingo.Xoom.Symbio.csproj", "{397F117B-45DD-4C76-A01A-07B7DDE580C0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-symbio-ado", "vlingo-net-symbio-ado", "{E54A5248-5A7E-4B1B-BBFA-430C7F86BA5E}"
 EndProject
