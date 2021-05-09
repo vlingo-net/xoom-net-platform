@@ -1,9 +1,9 @@
 [submodule "xoom-net-http"]
 	path = xoom-net-http
 	url = ../xoom-net-http
-[submodule "vlingo-net-symbio-ado"]
-	path = vlingo-net-symbio-ado
-	url = ../vlingo-net-symbio-ado
+[submodule "xoom-net-symbio-ado"]
+	path = xoom-net-symbio-ado
+	url = ../xoom-net-symbio-ado
 [submodule "vlingo-net-directory"]
 	path = vlingo-net-directory
 	url = ../vlingo-net-directory
