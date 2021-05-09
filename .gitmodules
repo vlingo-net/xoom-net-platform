@@ -34,3 +34,6 @@
 [submodule "xoom-net-lattice"]
 	path = xoom-net-lattice
 	url = ../xoom-net-lattice
+[submodule "xoom-net-turbo"]
+	path = xoom-net-turbo
+	url = ../xoom-net-turbo
