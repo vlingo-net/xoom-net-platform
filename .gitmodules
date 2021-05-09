@@ -31,9 +31,9 @@
 [submodule "xoom-net-examples"]
 	path = xoom-net-examples
 	url = ../xoom-net-examples
-[submodule "vlingo-net-lattice"]
-	path = vlingo-net-lattice
-	url = ../vlingo-net-lattice
+[submodule "xoom-net-lattice"]
+	path = xoom-net-lattice
+	url = ../xoom-net-lattice
 [submodule "vlingo-net-xoom"]
     path = vlingo-net-xoom
     url = ../vlingo-net-xoom
