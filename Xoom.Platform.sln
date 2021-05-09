@@ -29,13 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Common.Tests", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Common", "xoom-net-common\src\Vlingo.Xoom.Common\Vlingo.Xoom.Common.csproj", "{644F5D0A-BEF7-40FA-81CF-67F620AE055D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-directory", "vlingo-net-directory", "{59A8B8F5-D58E-4FB0-A457-2CC4B7B2E351}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-directory", "xoom-net-directory", "{59A8B8F5-D58E-4FB0-A457-2CC4B7B2E351}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E3E3F814-4C66-464C-8A51-A257847C39EF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Directory.Tests", "vlingo-net-directory\src\Vlingo.Directory.Tests\Vlingo.Directory.Tests.csproj", "{B87F2DD4-4782-44E1-8264-D7F926E066AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Directory.Tests", "xoom-net-directory\src\Vlingo.Xoom.Directory.Tests\Vlingo.Xoom.Directory.Tests.csproj", "{B87F2DD4-4782-44E1-8264-D7F926E066AA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Directory", "vlingo-net-directory\src\Vlingo.Directory\Vlingo.Directory.csproj", "{D6252CC0-84C5-4DE2-B9F3-2161C84D0B86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Directory", "xoom-net-directory\src\Vlingo.Xoom.Directory\Vlingo.Xoom.Directory.csproj", "{D6252CC0-84C5-4DE2-B9F3-2161C84D0B86}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-http", "xoom-net-http", "{1977A8C0-3545-4676-8A82-ACA2947C379F}"
 EndProject
