@@ -13,13 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Actors.Tests", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Actors", "xoom-net-actors\src\Vlingo.Xoom.Actors\Vlingo.Xoom.Actors.csproj", "{452C882C-4477-4436-941C-BBB3D4761BB9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-cluster", "vlingo-net-cluster", "{35D8B994-527D-4E7C-AE5A-D81737A6DFC7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-cluster", "xoom-net-cluster", "{35D8B994-527D-4E7C-AE5A-D81737A6DFC7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6243E476-A787-4B53-99A6-7754EA1C7434}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Cluster.Tests", "vlingo-net-cluster\src\Vlingo.Cluster.Tests\Vlingo.Cluster.Tests.csproj", "{133F3A7F-EB66-40B9-B2C1-EEA2082C73F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Cluster.Tests", "xoom-net-cluster\src\Vlingo.Xoom.Cluster.Tests\Vlingo.Xoom.Cluster.Tests.csproj", "{133F3A7F-EB66-40B9-B2C1-EEA2082C73F8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Cluster", "vlingo-net-cluster\src\Vlingo.Cluster\Vlingo.Cluster.csproj", "{5A973D91-19AA-434C-BB6E-B39E1EC82568}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlingo.Xoom.Cluster", "xoom-net-cluster\src\Vlingo.Xoom.Cluster\Vlingo.Xoom.Cluster.csproj", "{5A973D91-19AA-434C-BB6E-B39E1EC82568}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-common", "xoom-net-common", "{E012082D-7A92-42A8-9E12-34A7F21386DB}"
 EndProject

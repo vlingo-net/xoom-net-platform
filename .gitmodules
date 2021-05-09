@@ -10,9 +10,9 @@
 [submodule "xoom-net-symbio"]
 	path = xoom-net-symbio
 	url = ../xoom-net-symbio
-[submodule "vlingo-net-cluster"]
-	path = vlingo-net-cluster
-	url = ../vlingo-net-cluster
+[submodule "xoom-net-cluster"]
+	path = xoom-net-cluster
+	url = ../xoom-net-cluster
 [submodule "xoom-net-wire"]
 	path = xoom-net-wire
 	url = ../xoom-net-wire
