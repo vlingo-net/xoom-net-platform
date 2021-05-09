@@ -1,4 +1,4 @@
-git submodule add ../xoom-net-xoom xoom-net-xoom
+git submodule add ../xoom-net-turbo xoom-net-turbo
 	
 git submodule add ../xoom-net-http xoom-net-http
 git submodule add ../xoom-net-symbio-ado xoom-net-symbio-ado
@@ -14,8 +14,6 @@ git submodule add ../xoom-net-actors xoom-net-actors
 
 git submodule add ../xoom-net-common xoom-net-common
 git submodule add ../xoom-net-uuid xoom-net-uuid
-
-git submodule add ../xoom-net-auth xoom-net-auth
 
 git submodule add ../xoom-net-examples xoom-net-examples
 

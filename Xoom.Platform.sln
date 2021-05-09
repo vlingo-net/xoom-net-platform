@@ -93,13 +93,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlingo.Xoom.Lattice.Tests",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.Tests", "xoom-net-examples\Vlingo-Actors-Playground\PingPong.Tests\PingPong.Tests.csproj", "{B99CA943-94C2-4CA4-B9F6-6708E4C5ED7F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlingo-net-xoom", "vlingo-net-xoom", "{8D4B7582-DBCD-4750-A296-74E8B478C15C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-turbo", "xoom-net-turbo", "{8D4B7582-DBCD-4750-A296-74E8B478C15C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8AB7348A-3CF0-4D5B-9FD0-0F59AE8E4FB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlingo.Xoom", "vlingo-net-xoom\src\Vlingo.Xoom\Vlingo.Xoom.csproj", "{2EFF8E7D-0BE8-47A9-A89E-72527B8A0B29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlingo.Xoom.Turbo", "xoom-net-turbo\src\Vlingo.Xoom.Turbo\Vlingo.Xoom.Turbo.csproj", "{2EFF8E7D-0BE8-47A9-A89E-72527B8A0B29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlingo.Xoom.Tests", "vlingo-net-xoom\src\Vlingo.Xoom.Tests\Vlingo.Xoom.Tests.csproj", "{D6FD1968-AF09-4938-8013-8018D2AE9B4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlingo.Xoom.Turbo.Tests", "xoom-net-turbo\src\Vlingo.Xoom.Turbo.Tests\Vlingo.Xoom.Turbo.Tests.csproj", "{D6FD1968-AF09-4938-8013-8018D2AE9B4B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vlingo-E2e-Sys-Airline-Ops", "Vlingo-E2e-Sys-Airline-Ops", "{BE924739-B0CF-47C6-BAD8-3EC7F83B07D5}"
 EndProject
