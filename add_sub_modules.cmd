@@ -1,4 +1,5 @@
 git submodule add ../xoom-net-turbo xoom-net-turbo
+git submodule add ../xoom-net-streams xoom-net-streams
 	
 git submodule add ../xoom-net-http xoom-net-http
 git submodule add ../xoom-net-symbio-ado xoom-net-symbio-ado

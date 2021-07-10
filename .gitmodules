@@ -37,3 +37,6 @@
 [submodule "xoom-net-turbo"]
 	path = xoom-net-turbo
 	url = ../xoom-net-turbo
+[submodule "xoom-net-streams"]
+	path = xoom-net-streams
+	url = ../xoom-net-streams
