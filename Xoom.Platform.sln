@@ -109,6 +109,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vgoairlines.Tests", "xoom-n
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inventory", "Inventory", "{69233A97-A336-42DA-AE0C-01DEF7C85F69}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xoom-net-streams", "xoom-net-streams", "{A0DC594C-FA82-4A78-90D4-436DCE4E64D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EFE8DFDC-1B03-4B9E-862B-2F98CE5A0FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlingo.Xoom.Streams", "xoom-net-streams\src\Vlingo.Xoom.Streams\Vlingo.Xoom.Streams.csproj", "{D8460188-545A-4AD4-BB47-47DC0EAB8724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlingo.Xoom.Streams.Tests", "xoom-net-streams\src\Vlingo.Xoom.Streams.Tests\Vlingo.Xoom.Streams.Tests.csproj", "{EF950B3D-BD38-4AA4-A1EC-126B7B671043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug With Project References|Any CPU = Debug With Project References|Any CPU
@@ -608,6 +616,42 @@ Global
 		{A4E5520E-65A6-4E07-8D0A-30B47BA29496}.Release|x64.Build.0 = Release|Any CPU
 		{A4E5520E-65A6-4E07-8D0A-30B47BA29496}.Release|x86.ActiveCfg = Release|Any CPU
 		{A4E5520E-65A6-4E07-8D0A-30B47BA29496}.Release|x86.Build.0 = Release|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug With Project References|Any CPU.ActiveCfg = Debug With Project References|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug With Project References|Any CPU.Build.0 = Debug With Project References|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug With Project References|x64.ActiveCfg = Debug With Project References|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug With Project References|x64.Build.0 = Debug With Project References|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug With Project References|x86.ActiveCfg = Debug With Project References|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug With Project References|x86.Build.0 = Debug With Project References|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug|x64.Build.0 = Debug|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Debug|x86.Build.0 = Debug|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Release|x64.ActiveCfg = Release|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Release|x64.Build.0 = Release|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Release|x86.ActiveCfg = Release|Any CPU
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724}.Release|x86.Build.0 = Release|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug With Project References|Any CPU.ActiveCfg = Debug With Project References|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug With Project References|Any CPU.Build.0 = Debug With Project References|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug With Project References|x64.ActiveCfg = Debug With Project References|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug With Project References|x64.Build.0 = Debug With Project References|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug With Project References|x86.ActiveCfg = Debug With Project References|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug With Project References|x86.Build.0 = Debug With Project References|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug|x64.Build.0 = Debug|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Debug|x86.Build.0 = Debug|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Release|x64.ActiveCfg = Release|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Release|x64.Build.0 = Release|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Release|x86.ActiveCfg = Release|Any CPU
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -653,6 +697,9 @@ Global
 		{69233A97-A336-42DA-AE0C-01DEF7C85F69} = {BE924739-B0CF-47C6-BAD8-3EC7F83B07D5}
 		{06974BF9-CBB9-4C90-BB2D-F933C714D985} = {69233A97-A336-42DA-AE0C-01DEF7C85F69}
 		{A4E5520E-65A6-4E07-8D0A-30B47BA29496} = {69233A97-A336-42DA-AE0C-01DEF7C85F69}
+		{EFE8DFDC-1B03-4B9E-862B-2F98CE5A0FA2} = {A0DC594C-FA82-4A78-90D4-436DCE4E64D4}
+		{D8460188-545A-4AD4-BB47-47DC0EAB8724} = {EFE8DFDC-1B03-4B9E-862B-2F98CE5A0FA2}
+		{EF950B3D-BD38-4AA4-A1EC-126B7B671043} = {EFE8DFDC-1B03-4B9E-862B-2F98CE5A0FA2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53D649E6-82BF-4B8F-A1B5-371C6230E98B}
